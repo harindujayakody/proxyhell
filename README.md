@@ -15,7 +15,7 @@ license](https://img.shields.io/github/license/harindujayakody/proxyhell?style=f
 ![GitHub
 language](https://img.shields.io/github/languages/top/harindujayakody/proxyhell?style=for-the-badge)
 
-🔥 **ProxyHell -- SOCKS5 One-Click Proxy Installer**
+🔥 **ProxyHell | SOCKS5 One-Click Proxy Installer**
 
 ProxyHell installs and manages SOCKS5 proxies using **Dante Server**
 with a clean terminal interface.
